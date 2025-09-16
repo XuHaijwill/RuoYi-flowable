@@ -70,7 +70,9 @@
             <pattern>${log.pattern}</pattern>
         </encoder>
     </appender>
-	
+
+    <logger name="org.flowable" level="DEBUG" />
+
 	<!-- 系统模块日志级别控制  -->
 	<logger name="com.ruoyi" level="info" />
 	<!-- Spring日志级别控制  -->

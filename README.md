@@ -1,5 +1,12 @@
 # RuoYi-flowable
 
+## 分析
+```angular2html
+act_hi_procinst  关联主表和工作流表
+```
+
+
+
 #### 软件架构
 RuoYi-boot是有名的开源权限管理系统，集权限管理和代码快速生成于一体，将其作为基础开发平台集成flowable框架完成工作流引擎开发，打造集流程设计、流程部署、流程执行、任务办理、流程监控于一体的强大工作流平台。在线演示地址：http://ruoyiflowable.ccfast.cc/
 
